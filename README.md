@@ -1,7 +1,8 @@
 # 💫 About Me:
-![spotify-github-profile](/img/playing.svg)
 🔭 I’m currently working on Cybersecurity <br>👯 I’m looking for an Job<br>🤝 I’m looking for help with ShellScripters <br>🌱 I’m currently learning<br>💬 Ask me about Hacking stuffs<br>⚡ Fun fact = My life
 
+## 🎵 Fav Song:
+![spotify-github-profile](/img/playing.svg)<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/monst8r) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrmajhi69) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nilangshu-majhi-732856202) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/nilangshu-majhi) 
