@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🥺 Every Dev's Sad story!
-<img src="https://random-memer.herokuapp.com/" width="256px"/>
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/monst8r) [![PayPal](https://img.shields.io/badge/Paytm-Donate%20Me-blue00457C?style=for-the-badge&logo=paytm&logoColor=white)](https://paytm.me/j3o-PBj) 
 
