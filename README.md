@@ -19,7 +19,9 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ### 😂 Whoever told me to learn AI
-![image](https://user-images.githubusercontent.com/67144582/180591440-7d9d4553-eff3-49ef-bd79-2ecdcde8d893.png)
+![image](https://user-images.githubusercontent.com/67144582/180591440-7d9d4553-eff3-49ef-bd79-2ecdcde8d893.png)<br>
+
+ [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/monst8r) [![PayPal](https://img.shields.io/badge/Paytm-Donate%20Me-blue-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/6290457673@paytm) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=monster8d&icon=0&color=0)](https://visitcount.itsvg.in)
