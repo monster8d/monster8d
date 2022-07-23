@@ -12,7 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=monster8d&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=monster8d&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Everyday's Quote
+### ✍️ Everyday's Quote <br>
+<html>
 <svg width="320" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-labelledby="cardTitle" role="img">
   <title id="cardTitle">Now playing on Resso</title>
   <foreignObject width="320" height="100">
@@ -182,6 +183,7 @@
   </foreignObject>
 </svg>
 <br>
+</html>
 
 ### 🥺 Every Dev's Sad story!
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
