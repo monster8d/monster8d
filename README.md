@@ -21,4 +21,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=monster8d&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=monster8d&&style=flat-square" align="center" />
+</div>  
